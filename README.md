@@ -1,1 +1,10 @@
-# .devcontainer-devcontainer.json
+{
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
